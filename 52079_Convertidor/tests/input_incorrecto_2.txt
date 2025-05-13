@@ -1,0 +1,8 @@
+nombre:archivo con espacios.txt;
+tipo:txt;
+tamaño:1000;
+creado:2025:05.01.09.00;
+modificado:2025:05.01.09.30;
+autor:Pedro_López;      <— “ó” no permitido
+descripcion:Prueba_de_error;
+etiquetas:[prueba, error, tags];  <— espacio después de coma

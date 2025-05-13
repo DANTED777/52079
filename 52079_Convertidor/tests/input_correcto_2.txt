@@ -1,0 +1,8 @@
+nombre:documento.pdf;
+tipo:pdf;
+tamaño:102400;
+creado:2025:05.01.10.00;
+modificado:2025:05.01.10.30;
+autor:IA_Modelo;
+descripcion:Documento_prueba_metadatos;
+etiquetas:[documento,prueba,metadatos];

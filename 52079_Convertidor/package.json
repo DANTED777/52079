@@ -1,0 +1,16 @@
+{
+  "name": "convertidor-antlr",
+  "version": "1.0.0",
+  "description": "Analizador de metadatos con ANTLR y JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["antlr", "parser", "convertidor", "metadatos"],
+  "author": "TuNombre",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}
